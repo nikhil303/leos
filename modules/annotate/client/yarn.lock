@@ -134,9 +134,9 @@ angular-toastr@^1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/angular-toastr/-/angular-toastr-1.7.0.tgz#7fdf9ef61cb4abee7a8818eb3d9798c057d4eb7f"
 
-angular@=1.6.9:
-  version "1.6.9"
-  resolved "https://registry.yarnpkg.com/angular/-/angular-1.6.9.tgz#bc812932e18909038412d594a5990f4bb66c0619"
+angular@=1.8.3:
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.8.3.tgz#851ad75d5163c105a7e329555ef70c90aa706894"
 
 angulartics@0.17.2:
   version "0.17.2"
